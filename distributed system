@@ -12,7 +12,7 @@ def hello_world():
 @app.route("/test")
 def testing_function():
     print("Testing function is running")
-    return "<p>Fuck You it works!</p>"
+    return "<p> It works!</p>"
 
 
 # @app.route("/checkPrime")
